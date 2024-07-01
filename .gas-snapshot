@@ -1,0 +1,6 @@
+BasicNftTest:testCanMintAndHaveABalance() (gas: 177639)
+BasicNftTest:testNameIsCorrect() (gas: 9596)
+DeployMoodNftTest:testConvertSvgToURI() (gas: 45045)
+MoodNftIntegrationTest:testFlipTokenToSad() (gas: 110324)
+MoodNftIntegrationTest:testViewTokenURIIntegration() (gas: 195254)
+MoodNftTest:testViewTokenURI() (gas: 201959)
